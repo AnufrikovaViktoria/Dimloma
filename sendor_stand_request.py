@@ -1,3 +1,5 @@
+# Виктория Ануфрикова, 12-я когорта — Финальный проект. Инженер по тестированию плюс
+
 import configuration
 import requests
 import data
